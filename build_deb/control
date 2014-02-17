@@ -1,0 +1,10 @@
+Package: lunar-calendar
+Version: 1.1-2
+Architecture: all
+Maintainer: LiuLang<gsushzhsosgsu@gmail.com>
+Installed-Size: 272
+Depends: python3-gi
+Section: gnome
+Priority: optional
+Homepage: https://github.com/LiuLang/lunar_calendar
+Description: A Chinese lunar calendar for linux desktop users
